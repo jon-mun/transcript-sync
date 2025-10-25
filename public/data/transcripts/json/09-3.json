@@ -1,0 +1,30 @@
+[
+  {
+    "id": "line1",
+    "start": 0.0,
+    "end": 0.0,
+    "speaker": "A",
+    "text": "你知道吗？大卫找到工作了。"
+  },
+  {
+    "id": "line2",
+    "start": 0.0,
+    "end": 0.0,
+    "speaker": "B",
+    "text": "太好了！她从什么时候开始上班？"
+  },
+  {
+    "id": "line3",
+    "start": 0.0,
+    "end": 0.0,
+    "speaker": "A",
+    "text": "从下个星期一开设。"
+  },
+  {
+    "id": "line4",
+    "start": 0.0,
+    "end": 0.0,
+    "speaker": "B",
+    "text": "这是他的第一个工作，希望他能喜欢。"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "line1",
+    "start": 0.0,
+    "end": 0.0,
+    "speaker": "A",
+    "text": "你好！请问张欢在吗？"
+  },
+  {
+    "id": "line2",
+    "start": 0.0,
+    "end": 0.0,
+    "speaker": "B",
+    "text": "你打错了，我们这儿没有叫张欢的。"
+  },
+  {
+    "id": "line3",
+    "start": 0.0,
+    "end": 0.0,
+    "speaker": "A",
+    "text": "对不起。"
+  }
+]
